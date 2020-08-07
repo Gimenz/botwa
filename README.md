@@ -53,7 +53,6 @@ after running scan qr code at terminal
 * [YogaSakti](https://github.com/YogaSakti)
 * [Viole403](https://github.com/Viole403)
 
-after running it you need to scan the qr
 
 ### Troubleshooting
 Make sure all the necessary dependencies are installed.
